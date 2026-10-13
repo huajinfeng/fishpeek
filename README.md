@@ -63,5 +63,12 @@
 
 ## 📦 程序文件说明
 
-- **主程序轻量版**：[FishPeek.exe](file:///d:/Projects/own/fish/FishPeek.exe)（仅 187 KB，单文件，推荐）
-- **免安装独立版**：[dist_standalone/FishPeek.exe](file:///d:/Projects/own/fish/dist_standalone/FishPeek.exe)（内含独立运行环境）
+- **主程序轻量版**：`FishPeek.exe`（仅 187 KB，单文件，推荐）
+- **免安装独立版**：`dist_standalone/FishPeek.exe`（内含独立运行环境）
+
+---
+
+## 🔗 友情链接
+
+- [LinuxDo](https://linux.do/) — 真诚、友善、团结、专业，你的品质开源与技术社区
+
