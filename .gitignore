@@ -3,7 +3,9 @@
 [Oo]bj/
 dist/
 dist_standalone/
+release_assets/
 *.exe
+*.zip
 
 ## User-specific files
 *.rsuser
