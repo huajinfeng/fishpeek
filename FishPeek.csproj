@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationTitle>摸鱼助手 (FishPeek)</ApplicationTitle>
+    <Product>FishPeek</Product>
+    <AssemblyTitle>FishPeek</AssemblyTitle>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+</Project>

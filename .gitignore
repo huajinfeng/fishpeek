@@ -1,0 +1,19 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+dist/
+dist_standalone/
+*.exe
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosv
+*.sln.docstates
+config.json
+
+## Visual Studio / VS Code
+.vs/
+.vscode/
+.idea/
